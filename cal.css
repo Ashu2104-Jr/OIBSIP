@@ -1,0 +1,74 @@
+* {
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background-color:rgba(25, 7, 126, 1) ;
+}
+input{
+    padding: 10px;
+    width: 270px;
+    margin: 15px;
+    margin-top: 50px;
+    text-align: end;
+    font-size: 30px;
+    border-radius: 3px;
+    border: none;
+    background: none;
+    color: aliceblue;
+}
+button{
+    margin: 10px;
+    padding: 10px;
+    width: 50px;
+    height: 50px;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 12px;
+}
+.t1{
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px;
+}
+.t1 button{
+    border-radius: 30px;
+    font-size: 20px;
+    border: none;
+}
+.equal{
+    height: 130px;
+    background-color: rgba(143, 236, 102,0.6);
+    color:rgba(37, 110, 6, 1.0);
+}
+.c{
+    color: red;
+    background-color:rgba(255,0,0,0.3);
+}
+.container{
+    width: fit-content;
+    padding: 10px;
+    border-radius: 7px;
+    align-items: center;
+    margin-left: 610px;
+    margin-top: 40px;
+    background-image: linear-gradient(orange,white,green);
+    align-items: center;
+}
+h1{
+    margin-top: 50px;
+    text-align: center;
+    color: white
+}
+h3{
+    margin-top: 50px;
+    text-align: center;
+    color: white
+}
+.xbtn{
+    background-color:rgba(255,0,255,0.3);
+    color: rgba(89, 15, 89, 1.0);;
+}
+/*rgb(238, 130, 236)*/
